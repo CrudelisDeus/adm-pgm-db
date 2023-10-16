@@ -1,0 +1,14 @@
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\bin\Debug\net6.0\block_1.exe
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\bin\Debug\net6.0\block_1.deps.json
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\bin\Debug\net6.0\block_1.runtimeconfig.json
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\bin\Debug\net6.0\block_1.dll
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\bin\Debug\net6.0\block_1.pdb
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\obj\Debug\net6.0\block_1.GeneratedMSBuildEditorConfig.editorconfig
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\obj\Debug\net6.0\block_1.AssemblyInfoInputs.cache
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\obj\Debug\net6.0\block_1.AssemblyInfo.cs
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\obj\Debug\net6.0\block_1.csproj.CoreCompileInputs.cache
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\obj\Debug\net6.0\block_1.dll
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\obj\Debug\net6.0\refint\block_1.dll
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\obj\Debug\net6.0\block_1.pdb
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\obj\Debug\net6.0\block_1.genruntimeconfig.cache
+X:\data\work\study\Dobrolubova\adm-pgm-db\block_1\block_1\obj\Debug\net6.0\ref\block_1.dll
