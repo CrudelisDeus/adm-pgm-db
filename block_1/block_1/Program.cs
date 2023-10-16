@@ -18,7 +18,10 @@
     N!, який розраховується за допомогою цикла do-while.
 
     task_3:
-    [!] Не знаю який я варіант
+    23 в списку був / 3 - варіант
+    Використовуючи VisualStudio, створити проєкт за шаблоном ConsoleApplication.
+    Написати метод, який приймає три дійсні аргументи та повертає їх суму.
+    Результат вивести на екран.
 */
 
 using System;
@@ -27,6 +30,7 @@ namespace task
 {
     class Program
     {
+        // task_1
         static void task_1(string[] args)
         {
             Console.Clear();
@@ -60,6 +64,7 @@ namespace task
             }
         }
 
+        // task_2
         static void task_2(string[] args)
         {
             Console.Clear();
@@ -84,6 +89,26 @@ namespace task
             }
         }
 
+        // task_3
+        static void task_3(string[] args)
+        {
+            Console.Clear();
+
+            double a = 2.5;
+            double b = 3.7;
+            double c = 1.2;
+
+            double sum = task_3_calc_sum(a, b, c);
+
+            Console.WriteLine($"Sum number {a}, {b}, {c} = {sum}");
+        }
+
+        static double task_3_calc_sum(double x, double y, double z)
+        {
+            return x + y + z;
+        }
+
+        // Main menu
         static void Main(string[] args)
         {
             Console.WriteLine("[>]Choose a program: \n");
@@ -101,6 +126,7 @@ namespace task
                     task_2(args);
                     break;
                 case "3":
+                    task_3(args);
                     break;
                 default:
                     Console.WriteLine("\n[!] You entered an incorrect value. Use nubmer 1-3.");
