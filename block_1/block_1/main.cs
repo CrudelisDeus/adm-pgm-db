@@ -28,7 +28,7 @@ using System;
 
 namespace task
 {
-    class Program
+    class main
     {
         // task_1
         static void task_1(string[] args)
