@@ -18,11 +18,9 @@ class Program
             return;
         }
 
-        // Виклик методу CelsiusToFahrenheit за допомогою рефлексії
         MethodInfo methodInfo = converterInstance.GetType().GetMethod("CelsiusToFahrenheit");
         double fahrenheitValue = (double)methodInfo.Invoke(converterInstance, new object[] { celsiusValue });
 
-        // Виведення результату
         Console.WriteLine($"{celsiusValue} degrees Celsius = {fahrenheitValue} degrees Fahrenheit");
 
         Console.ReadLine();
