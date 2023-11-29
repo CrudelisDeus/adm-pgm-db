@@ -1,0 +1,11 @@
+X:\data\work\study\Dobrolubova\adm-pgm-db\LibTempConverter\LibTempConverter\bin\Debug\net6.0\LibTempConverter.deps.json
+X:\data\work\study\Dobrolubova\adm-pgm-db\LibTempConverter\LibTempConverter\bin\Debug\net6.0\LibTempConverter.dll
+X:\data\work\study\Dobrolubova\adm-pgm-db\LibTempConverter\LibTempConverter\bin\Debug\net6.0\LibTempConverter.pdb
+X:\data\work\study\Dobrolubova\adm-pgm-db\LibTempConverter\LibTempConverter\obj\Debug\net6.0\LibTempConverter.GeneratedMSBuildEditorConfig.editorconfig
+X:\data\work\study\Dobrolubova\adm-pgm-db\LibTempConverter\LibTempConverter\obj\Debug\net6.0\LibTempConverter.AssemblyInfoInputs.cache
+X:\data\work\study\Dobrolubova\adm-pgm-db\LibTempConverter\LibTempConverter\obj\Debug\net6.0\LibTempConverter.AssemblyInfo.cs
+X:\data\work\study\Dobrolubova\adm-pgm-db\LibTempConverter\LibTempConverter\obj\Debug\net6.0\LibTempConverter.csproj.CoreCompileInputs.cache
+X:\data\work\study\Dobrolubova\adm-pgm-db\LibTempConverter\LibTempConverter\obj\Debug\net6.0\LibTempConverter.dll
+X:\data\work\study\Dobrolubova\adm-pgm-db\LibTempConverter\LibTempConverter\obj\Debug\net6.0\refint\LibTempConverter.dll
+X:\data\work\study\Dobrolubova\adm-pgm-db\LibTempConverter\LibTempConverter\obj\Debug\net6.0\LibTempConverter.pdb
+X:\data\work\study\Dobrolubova\adm-pgm-db\LibTempConverter\LibTempConverter\obj\Debug\net6.0\ref\LibTempConverter.dll
